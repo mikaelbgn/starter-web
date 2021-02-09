@@ -17,3 +17,7 @@ Developing parts of development
 ## Encore
 
 Encore et toujours du texte
+
+## Copyright
+
+Copyright included
