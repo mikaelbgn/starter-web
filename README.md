@@ -13,3 +13,7 @@ Simple action requires simple idea
 ## Development
 
 Developing parts of development
+
+## Encore
+
+Encore et toujours du texte
