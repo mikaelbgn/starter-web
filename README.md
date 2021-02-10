@@ -21,3 +21,7 @@ Encore et toujours du texte
 ## Copyright
 
 Copyright included
+
+## How to contribute
+
+Fork this repo and pull
